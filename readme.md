@@ -4,3 +4,5 @@ In this project, we will play the game of Halma, an adversarial game with some s
 
 
 "For further description refer Description.pdf"
+
+Move for SINGLE mode and GAME mode are different, refer addendum.pdf for GAME mode moves.
